@@ -71,3 +71,6 @@ __pycache__/
 
 # IDE folders
 .vscode/
+
+.snapshots/
+
