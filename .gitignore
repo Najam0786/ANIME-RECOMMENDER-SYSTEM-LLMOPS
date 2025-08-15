@@ -51,9 +51,6 @@ snapshots/
 # Jupyter Notebook
 .ipynb_checkpoints
 
-# Docker
-docker-compose.yml
-Dockerfile
 
 # Misc
 .DS_Store
@@ -73,4 +70,3 @@ __pycache__/
 .vscode/
 
 .snapshots/
-
