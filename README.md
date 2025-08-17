@@ -64,7 +64,45 @@ It includes:
 - Helm & Grafana integration 📈
 
 ---
+
 ---
+
+## 📸 Screenshots
+
+Here are a few snapshots of the deployed Anime Recommender System in action:
+
+### 🎯 1. Application UI – AnimeFinder Pro
+
+![AnimeFinder Pro UI](assets/animefinder-ui.png)
+
+---
+
+### ☁️ 2. Google Cloud VM Instance
+
+This VM hosts our Kubernetes cluster running the recommender system:
+
+![Google Cloud VM Instance](assets/gcp-vm-instance.png)
+
+---
+
+### 📊 3. Grafana Cloud – Cost Monitoring
+
+We use Grafana to monitor infrastructure usage and cost:
+
+![Grafana Cost Monitoring](assets/grafana-cost.png)
+
+---
+
+### 📈 4. Kubernetes Observability in Grafana
+
+Live metrics showing CPU, memory, workloads, and pod details:
+
+![Grafana Kubernetes Monitoring](assets/grafana-k8s.png)
+
+---
+
+---
+
 
 ## 👨‍💻 Author
 
