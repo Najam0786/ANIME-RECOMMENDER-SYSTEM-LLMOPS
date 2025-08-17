@@ -106,7 +106,7 @@ Live metrics showing CPU, memory, workloads, and pod details:
 
 ## 👨‍💻 Author
 
-- **Name:** Najam0786
+- **Name:** Nazmul Mustufa Farooquee
 - **GitHub:** [Najam0786](https://github.com/Najam0786)
 - **Email:** [nazmulfarooquee@gmail.com](mailto:nazmulfarooquee@gmail.com)
 
